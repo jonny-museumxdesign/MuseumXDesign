@@ -86,6 +86,20 @@ For example, this is how you wrap a paragraph of text in `p` tags:
 
 ![](/assets/images/attributes.jpg)
 
+You can add **hyperlinks** to our content using the `a` element.
+
+```html
+<a href="http://example.com"> the clickable text </a>
+```
+
+`a` is for *anchor* :anchor:
+
+> ```html
+	...
+	<p>To find out more visit this <a href="http://example.com">Wikipedia</a> page.</p>
+</body>
+```
+
 #### CSS basics
 
 You use CSS to style HTML.
