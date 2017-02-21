@@ -29,7 +29,7 @@ What we are going to do today
 
 **Distribution**
  - Pretend we're back in 1970 or date before the web existed. How might we distribute the content we've sketched out? Stick it to your fridge, that may access a small audience. Pin in to a notice board, local area can access a wider audience. You could all do this, you know what tools you need to achieve this, pens, paper, pins, maybe a printer.
-  - Now we have the web, which gives us the potential to access billions of people. The tools you need to get this done are much less obvious and not until recently were taught at school. So, lets start taking a quick look at the tools needed to create a website.
+ - Now we have the web, which gives us the potential to access billions of people. The tools you need to get this done are much less obvious and not until recently were taught at school. So, lets start taking a quick look at the tools needed to create a website.
 
 ## Anatomy of the web
 
