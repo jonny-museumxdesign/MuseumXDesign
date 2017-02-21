@@ -58,13 +58,77 @@ Chrome developer tools
 <!-- - Demonstrate the Facebook etc. Github repo, show the collaboration and sharing aspects.
 - Everyone starts their first repo using the Github Pages automatic generator to get a generic page live. Relate this back to the anatomy i.e. where is the server, what is the starting code. -->
 
-## Customising code - basics
+## Customising code
+
+#### HTML basics
+
+HTML is a *markup* language, which you use to *format your content*.
+
+Essentially, you wrap content inside bits of code called tags.
+
+`<tag> content </tag>`
+
+The bits of code inside angle brackets `<` and `>` are instructions for the computer:
+
+* They describe the content they wrap
+* Define where it starts `<tag>`
+* Define where it ends `</tag>`
+
+For example, this is how you wrap a paragraph of text in `p` tags:
+
+`<p> This is a paragraph. </p>`
+
+`p` stands for *paragraph*, of course.
 
 ![](/assets/images/HTML_doc_setup.jpg)
 
 ![](/assets/images/headings.jpg)
 
 ![](/assets/images/attributes.jpg)
+
+#### CSS basics
+
+You use CSS to style HTML.
+
+CSS looks and works differently than HTML.
+
+```css
+selector
+{
+	property: value;
+	property: value;
+}
+```
+
+The part before the curly brackets `{` and `}` is the **selector**. This ***selects* the element** from your HTML document.
+
+In CSS you can select multiple HTML elements in one go.
+
+For example, to select all paragraphs you can write
+
+```css
+p
+{
+	/* your styles for paragraph here */
+}
+```
+
+CSS **properties** define how HTML elements are displayed.
+
+![](assets/css_layout.jpg)
+
+The first bit is the property name, eg `color`, and the second bit is the value, eg `green`. They are separated by a `:` colon, and you MUST end each line of CSS with a `;` semicolon (for real, otherwise your browser will choke).
+
+For example ...
+
+```css
+p
+{
+	color: green;
+}
+```
+
+... will turn *every* paragraph in your HTML green.
 
 <!-- - JSBin -->
 <!-- - Paste generic code into JSBin and edit -->
