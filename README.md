@@ -48,10 +48,10 @@ Demonstrate how these tools are working together when visiting their school webs
 
 ## Linking the digital with the physical
 
-![lighthouse](/assets/images/lighthouse.jpg){:height="500px"}
+![lighthouse](/assets/images/lighthouse.jpg)
 
-![NFC](/assets/images/nfc_smarttags.jpg =500x)
+![NFC](/assets/images/nfc_smarttags.jpg)
 
-![QR](/assets/images/qr_reader.jpg =500x)
+![QR](/assets/images/qr_reader.jpg)
 
 ## Bug fixing
