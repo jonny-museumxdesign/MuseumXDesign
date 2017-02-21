@@ -55,13 +55,21 @@ Chrome developer tools
 
 ## Customising code - basics
 
-- JSBin
+![](/assets/images/HTML_doc_setup.jpg)
+
+![](/assets/images/headings.jpg)
+
+![](/assets/images/attributes.jpg)
+
+<!-- - JSBin -->
 <!-- - Paste generic code into JSBin and edit -->
-- Get all learners to a first, basic level of customisation and commit the changes in the GitHub repository. Note the changes to the public page.
+<!-- - Get all learners to a first, basic level of customisation and commit the changes in the GitHub repository. Note the changes to the public page. -->
 
 ## Free play
 
-30 minutes of free play. Experiment with fonts, images, video embed, colours, elements from different APIs (Facebook, instagram). We can be ambitious - the worst that can happen is I have to go around fixing things. Sometime the best learning happens when you "break" something.
+- Now it is time to experiment!
+- Fonts, images, video embed, colours, Facebook like buttons are all a great place to start!
+- Help each other out!
 
 ## Linking the digital with the physical
 
