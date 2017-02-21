@@ -1,13 +1,21 @@
-# MuseumXDesign
+### MuseumXDesign
 ## Introduction
 
-### Background
+### A little bit about me
+
+Not a computer scientists, I learnt to code by myself through experimenting and tinkering.
+
+I was recently in your shoes and want to show you that it's easy to get started and anyone can give it a go!
+
+### A little bit about you
+
+### Session plan
 
 What we are going to do today
- - Get you started on the world's biggest network of coders (GitHub)
+ - Get you started on the world's biggest network of coders
  - Launch your own web page live on the internet
  - Make your page unique by playing with code in HTML and CSS languages
- - Enable museum visitors to acess your page when they get to your chosen gallery and object
+ - Enable museum visitors to access your page when they get to your chosen gallery or object
 
 ## Presenting content on the web
 
