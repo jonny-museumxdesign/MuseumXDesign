@@ -1,13 +1,13 @@
 ### MuseumXDesign
-## Introduction
 
 ### A little bit about me
 
 Not a computer scientists, I learnt to code by myself through experimenting and tinkering.
-
 I was recently in your shoes and want to show you that it's easy to get started and anyone can give it a go!
 
 ### A little bit about you
+
+Do you have any coding experience?
 
 ### Session plan
 
@@ -21,7 +21,9 @@ What we are going to do today
 
 **content/format**
  - What do we want people to get out of our project?
- - What kind of content do we need to achieve these things? A compelling title, copy, images etc.
+  - Do we want to invoke emotion, inform, inspire etc?
+ - What kind of content do we need to achieve these things?
+  - A compelling title, copy, images etc?
 
 **Wireframes**
 
@@ -37,17 +39,24 @@ What we are going to do today
 - HTML
 - CSS
 
-Demonstrate how these tools are working together when visiting their school website. Have a good look the at the code using the Chrome Dev Tools.
+Chrome developer tools
 
-## Get a page live
+## Getting a page live
 
-- Github
-- Demonstrate the Facebook etc. Github repo, show the collaboration and sharing aspects.
-- Everyone starts their first repo using the Github Pages automatic generator to get a generic page live. Relate this back to the anatomy i.e. where is the server, what is the starting code.
+### Github :octocat:
+
+- Collaboration
+- Community
+- Sharing
+- Hosting
+
+<!-- - Demonstrate the Facebook etc. Github repo, show the collaboration and sharing aspects.
+- Everyone starts their first repo using the Github Pages automatic generator to get a generic page live. Relate this back to the anatomy i.e. where is the server, what is the starting code. -->
 
 ## Customising code - basics
 
-- Paste generic code into JSBin and edit
+- JSBin
+<!-- - Paste generic code into JSBin and edit -->
 - Get all learners to a first, basic level of customisation and commit the changes in the GitHub repository. Note the changes to the public page.
 
 ## Free play
