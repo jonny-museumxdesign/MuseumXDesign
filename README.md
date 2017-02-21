@@ -48,7 +48,7 @@ Demonstrate how these tools are working together when visiting their school webs
 
 ## Linking the digital with the physical
 
-![lighthouse](/assets/images/lighthouse.jpg =500x)
+![lighthouse](/assets/images/lighthouse.jpg){:height="500px"}
 
 ![NFC](/assets/images/nfc_smarttags.jpg =500x)
 
