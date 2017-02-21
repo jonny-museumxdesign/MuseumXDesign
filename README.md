@@ -8,13 +8,13 @@ What we are going to do today
  - Launch your own web page live on the internet
  - Make your page unique by playing with code in HTML and CSS languages
  - Enable museum visitors to acess your page when they get to your chosen gallery and object
- 
+
 ## Presenting content on the web
 
 **content/format**
  - What do we want people to get out of our project?
  - What kind of content do we need to achieve these things? A compelling title, copy, images etc.
- 
+
 **Wireframes**
 
 **Distribution**
@@ -46,10 +46,12 @@ Demonstrate how these tools are working together when visiting their school webs
 
 30 minutes of free play. Experiment with fonts, images, video embed, colours, elements from different APIs (Facebook, instagram). We can be ambitious - the worst that can happen is I have to go around fixing things. Sometime the best learning happens when you "break" something.
 
-## Linking the physical and the digital
+## Linking the digital with the physical
 
-- How can we get people in a physical location to look at our digital creation? Talk broadly about becons, NFC, QR codes etc.
-- Generate a QR code for the link to the web page
-- Create a little sticker with the QR code and a bit of copy which could be stuck knear the exhibit. Demonstrate how that would work using a QR code reader on a smartphone (at least on mine even if no one else has one!)
+![lighthouse](/assets/images/lighthouse.jpg)
+
+![NFC](/assets/images/nfc_smarttags.jpg)
+
+![QR](/assets/images/qr_reader.jpg)
 
 ## Bug fixing
