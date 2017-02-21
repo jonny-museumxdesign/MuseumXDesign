@@ -129,7 +129,7 @@ p
 
 CSS **properties** define how HTML elements are displayed.
 
-![](assets/css_layout.jpg)
+![](assets/images/css_layout.jpg)
 
 The first bit is the property name, eg `color`, and the second bit is the value, eg `green`. They are separated by a `:` colon, and you MUST end each line of CSS with a `;` semicolon (for real, otherwise your browser will choke).
 
