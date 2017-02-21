@@ -2,7 +2,7 @@
 
 ### A little bit about me
 
-Not a computer scientists, I learnt to code by myself through experimenting and tinkering.
+I'm not a computer scientist, I learnt to code by teaching myself through experimenting and tinkering.
 I was recently in your shoes and want to show you that it's easy to get started and anyone can give it a go!
 
 ### A little bit about you
