@@ -161,3 +161,5 @@ p
 ![QR](/assets/images/qr_reader.jpg)
 
 ## Bug fixing
+
+![BUG](/assets/images/bug.jpg)
