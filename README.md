@@ -156,7 +156,7 @@ p
 
 ![lighthouse](/assets/images/lighthouse.jpg)
 
-![NFC](/assets/images/nfc_smarttags.jpg)
+![NFC](/assets/images/nfc.jpg)
 
 ![QR](/assets/images/qr_reader.jpg)
 
