@@ -94,10 +94,8 @@ You can add **hyperlinks** to our content using the `a` element.
 
 `a` is for *anchor* :anchor:
 
-> ```html
-	...
-	<p>To find out more visit this <a href="http://example.com">Wikipedia</a> page.</p>
-</body>
+```html
+<p>To find out more visit this <a href="http://example.com">Wikipedia</a> page.</p>
 ```
 
 #### CSS basics
